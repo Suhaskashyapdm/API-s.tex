@@ -1,3 +1,16 @@
+/* I have successfully implemented all the features of the eCommerce backend project,
+including product listings, cart management, order processing, role-based access structure,
+pagination, and search functionality. I am currently in the process of learning and integrating
+JWT-based authentication. I would be grateful if you could consider my profile for the next round,
+and I’m truly interested in backend development.
+
+
+You can check API documentation of this project -   https://github.com/Suhaskashyapdm/API-s.tex
+*/
+
+
+
+
 
                                                       --ADMIN API--
 
